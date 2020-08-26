@@ -24,8 +24,8 @@ Tous seront présents! Plusieurs activités vous seront proposées:
 
 Événement Facebook
 
-[https://facebook.com/events/s/crepes-party-tournois/609650683087893/?ti=as][]
+<https://facebook.com/events/s/crepes-party-tournois/609650683087893/?ti=as>
 
 
-[https://twitter.com/tcgvs/status/1293440429225123840?s=19][]  
-[https://www.instagram.com/p/CDx7SiCp9Nn/?igshid=14zwbtnwh625i][]
+<https://twitter.com/tcgvs/status/1293440429225123840?s=19>
+<https://www.instagram.com/p/CDx7SiCp9Nn/?igshid=14zwbtnwh625i>
