@@ -22,7 +22,7 @@ title: TCG League Valaisanne
 email: info@tcg-vs.ch
 description: >- # this means to ignore newlines until "baseurl:"
   La TCG League Valaisanne est une association faisant la promotion des jeux de carte
-  à collectionner, tels que Yu-Gi-Oh!, Pokémon, Magic, Weiss&Schwarz, Vanguard etc.
+  à collectionner tels que Yu-Gi-Oh!, Pokémon, Magic, Weiss&Schwarz, Vanguard.  
   Nous organisons régulièrement des tournois et événements pour ces différents jeux.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com

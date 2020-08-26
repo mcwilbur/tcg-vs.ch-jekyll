@@ -20,7 +20,7 @@ Tous seront présents! Plusieurs activités vous seront proposées:
 - Tournoi sur demande: à partir de 8 joueurs il y aura possibilité d'organiser un tournoi standard avec de plus gros lots à gagner! 
 - Stream libre: La journée sera diffusée en live sur twitch.tv/tcgvs . Si vous souhaitez apparaître à la caméra pour montrer vos plus beaux combos, c'est le moment!
 
-⚠ PORT DU MASQUE OBLIGATOIRE !
+:warning: PORT DU MASQUE OBLIGATOIRE !
 
 Événement Facebook
 
