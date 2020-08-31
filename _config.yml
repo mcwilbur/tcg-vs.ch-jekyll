@@ -32,6 +32,7 @@ twitter_username: tcg-vs
 theme: minima
 plugins:
   - jekyll-feed
+  - jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default.
